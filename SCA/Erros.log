@@ -1,0 +1,198 @@
+Restauração Data/Hora    : 25/01/2024 09:22:00
+---------------------------------------------------
+Restauração Data/Hora    : 25/01/2024 09:23:21
+---------------------------------------------------
+Restauração Data/Hora    : 25/01/2024 09:24:53
+---------------------------------------------------
+Data/Hora    : 14/02/2024 06:53:37
+Form         : Frm_Visualizacao_4
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00000000. Read of address 00000000
+---------------------------------------------------
+Data/Hora    : 14/02/2024 06:53:42
+Form         : Frm_Visualizacao_4
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Invalid class typecast
+---------------------------------------------------
+Data/Hora    : 14/03/2024 10:30:15
+Form         : _frmPrincipal
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00E7E377 in module 'scaAdmin.exe'. Read of address 00000180
+---------------------------------------------------
+Data/Hora    : 31/03/2024 09:48:13
+Form         : frmGeral
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Stack overflow
+---------------------------------------------------
+Data/Hora    : 15/05/2024 18:39:05
+Form         : Frm_Visualizacao_8
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00644438 in module 'scaAdmin.exe'. Read of address 252DBFFC
+---------------------------------------------------
+Data/Hora    : 15/05/2024 18:39:08
+Form         : Frm_Visualizacao_8
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 006445F8 in module 'scaAdmin.exe'. Read of address 53EC8B31
+---------------------------------------------------
+Data/Hora    : 20/05/2024 17:23:19
+Form         : Frm_Visualizacao_5
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00000000. Read of address 00000000
+---------------------------------------------------
+Data/Hora    : 13/06/2024 18:47:22
+Form         : Frm_Visualizacao_2
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 0000003A. Read of address 0000003A
+---------------------------------------------------
+Data/Hora    : 13/06/2024 18:47:25
+Form         : Frm_Visualizacao_2
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00F845F2 in module 'scaAdmin.exe'. Read of address FC458D00
+---------------------------------------------------
+Data/Hora    : 17/06/2024 18:09:01
+Form         : Frm_Visualizacao_5
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00000000. Read of address 00000000
+---------------------------------------------------
+Data/Hora    : 17/06/2024 18:09:03
+Form         : Frm_Visualizacao_5
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00ED1F99 in module 'scaAdmin.exe'. Write of address 4D595F45
+---------------------------------------------------
+Data/Hora    : 17/06/2024 18:09:06
+Form         : Frm_Visualizacao_5
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00ED4438 in module 'scaAdmin.exe'. Read of address FFFFFFFC
+---------------------------------------------------
+Data/Hora    : 25/07/2024 16:36:17
+Form         : Frm_Visualizacao_3
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00000024. Read of address 00000024
+---------------------------------------------------
+Data/Hora    : 25/07/2024 16:36:18
+Form         : Frm_Visualizacao_3
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00000024. Read of address 00000024
+---------------------------------------------------
+Data/Hora    : 25/07/2024 16:40:40
+Form         : Frm_Visualizacao_3
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 7F7F7F7F. Read of address 7F7F7F7F
+---------------------------------------------------
+Data/Hora    : 25/07/2024 17:10:49
+Form         : Frm_Visualizacao_6
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 1B5018EE. Read of address FFFFFFFF
+---------------------------------------------------
+Data/Hora    : 05/08/2024 19:28:33
+Form         : Frm_Visualizacao_10
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00000000. Read of address 00000000
+---------------------------------------------------
+Data/Hora    : 17/09/2024 19:47:48
+Form         : frmTreinamento4
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : A janela não tem barras de rolamento.
+
+---------------------------------------------------
+Data/Hora    : 23/09/2024 14:50:07
+Form         : frmVerifica
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Out of system resources
+---------------------------------------------------
+Data/Hora    : 30/09/2024 20:10:48
+Form         : frmVerifica
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Out of system resources
+---------------------------------------------------
+Data/Hora    : 16/10/2024 17:52:27
+Form         : _frmPrincipal
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 008AE377 in module 'scaAdmin.exe'. Read of address 00000180
+---------------------------------------------------
+Data/Hora    : 26/11/2024 10:34:51
+Form         : Frm_Visualizacao
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00000001. Write of address 00000001
+---------------------------------------------------
+Data/Hora    : 26/11/2024 10:35:18
+Form         : Frm_Visualizacao
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00000000. Write of address 00000000
+---------------------------------------------------
+Data/Hora    : 17/01/2025 21:48:26
+Form         : _frmPrincipal
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 00C3E377 in module 'scaAdmin.exe'. Read of address 00000180
+---------------------------------------------------
+Data/Hora    : 06/02/2025 09:36:21
+Form         : frmGeral
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Stack overflow
+---------------------------------------------------
+Data/Hora    : 05/03/2025 06:23:56
+Form         : frmGeral
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Stack overflow
+---------------------------------------------------
+Data/Hora    : 06/03/2025 20:54:53
+Form         : _frmPrincipal
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 0103E377 in module 'scaAdmin.exe'. Read of address 00000180
+---------------------------------------------------
+Data/Hora    : 11/06/2025 06:57:41
+Form         : Frm_Visualizacao_1
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 0B56BB68. Write of address 0B56BB68
+---------------------------------------------------
+Data/Hora    : 11/06/2025 20:43:43
+Form         : _frmPrincipal
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 0089E377 in module 'scaAdmin.exe'. Read of address 00000180
+---------------------------------------------------
+Data/Hora    : 11/08/2025 15:00:52
+Form         : Frm_Visualizacao_3
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 0018B977 in module 'scaAdmin.exe'. Read of address 00000FE0
+---------------------------------------------------
+Data/Hora    : 18/08/2025 16:02:06
+Form         : frmRecebimentos3
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : A janela não tem barras de rolamento.
+
+---------------------------------------------------
+Data/Hora    : 01/09/2025 20:50:08
+Form         : frmMatriculas
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Out of system resources
+---------------------------------------------------
+Data/Hora    : 01/09/2025 20:51:52
+Form         : frmMatriculas
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Out of system resources
+---------------------------------------------------
+Data/Hora    : 29/09/2025 17:07:48
+Form         : frmAlunos1
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Out of system resources
+---------------------------------------------------
+Data/Hora    : 03/10/2025 23:10:31
+Form         : frmVerifica
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Out of system resources
+---------------------------------------------------
+Data/Hora    : 06/03/2026 08:25:45
+Form         : _frmPrincipal
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Access violation at address 0056E3A7 in module 'scaAdmin.exe'. Read of address 00000180
+---------------------------------------------------
+Data/Hora    : 10/03/2026 06:56:46
+Form         : frmTreinamento4
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : OLE error 800A03EC
+---------------------------------------------------
+Data/Hora    : 18/03/2026 21:35:29
+Form         : frmAlunos1
+Procedimento : Iniciando formulário principal - FormShow
+Erro         : Out of system resources
+---------------------------------------------------
